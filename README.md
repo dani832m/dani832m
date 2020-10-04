@@ -6,8 +6,6 @@ My name is Daniel. I'm one of those rare developers who doesn't drink coffee ☕
 - AP Graduate in _Computer Science_ 👨‍💻 (2020)
 - Currently studying a bachelor's degree in _Innovation and Entrepreneurship_ 📚
 
-I try to be open minded and embrace most technologies and tools, but I have a particular penchant for JavaScript and for building responsive/adaptive layouts 💘 I can work full stack, but my forces are clearly in the front-end part.
-
 ### I love to work with:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' title='HTML5' height='40' />](https://en.wikipedia.org/wiki/HTML5) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' title='CSS3' height='40' />](https://en.wikipedia.org/wiki/CSS) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' title='JavaScript' height='40' />](https://en.wikipedia.org/wiki/JavaScript) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' title='Bootstrap' height='40' />](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' title='React' height='40' />](https://en.wikipedia.org/wiki/React_(web_framework)) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' title='Git' height='40' />](https://en.wikipedia.org/wiki/Git) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' title='NPM' height='40' />](https://en.wikipedia.org/wiki/Npm_(software))
